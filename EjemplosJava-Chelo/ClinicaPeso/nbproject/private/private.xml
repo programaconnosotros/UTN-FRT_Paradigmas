@@ -5,8 +5,12 @@
         <group>
             <file>file:/home/chelo/NetBeansProjects/ClinicaPeso/src/modelo/Pesaje.java</file>
             <file>file:/home/chelo/NetBeansProjects/ClinicaPeso/src/vista/VentanaClinica.java</file>
+            <file>file:/home/chelo/NetBeansProjects/ClinicaPeso/src/datos/MysqlConnector.java</file>
+            <file>file:/home/chelo/NetBeansProjects/ClinicaPeso/src/datos/PostgreSQLConnector.java</file>
             <file>file:/home/chelo/NetBeansProjects/ClinicaPeso/src/app/Main.java</file>
             <file>file:/home/chelo/NetBeansProjects/ClinicaPeso/src/controlador/ControladorClinica.java</file>
+            <file>file:/home/chelo/NetBeansProjects/ClinicaPeso/src/modelo/Persona.java</file>
+            <file>file:/home/chelo/NetBeansProjects/ClinicaPeso/src/datos/IRepositorioBD.java</file>
         </group>
     </open-files>
 </project-private>

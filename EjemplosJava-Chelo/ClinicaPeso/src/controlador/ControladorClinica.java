@@ -72,7 +72,7 @@ public class ControladorClinica
     
     private static IRepositorioBD getRepo()
     {
-         return new MysqlConnector("root", "password");
+         return new MysqlConnector("root", "password"); // CAmbiar
          //return new PostgreSQLConnector();
     }
     

@@ -20,7 +20,7 @@ import modelo.Pesaje;
 public class MysqlConnector implements IRepositorioBD
 {
     
-    private String url="jdbc:mysql://localhost/paradigmasClinica?characterEncoding=utf8";
+    private String url="jdbc:mysql://localhost/paradigmasClinica?characterEncoding=utf8"; // CAMBIAR ESTO
     private String usuario;
     private String password;
     
